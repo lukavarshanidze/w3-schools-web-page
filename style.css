@@ -1,0 +1,370 @@
+.header-with-logo nav ul,
+.paid-courses,
+.log-in,
+.ul-of-second-header,
+.ul-of-second-header li,
+.first-article-then-div,
+.html5,
+.start-learning-html,
+.less-button-home,
+.home-next,
+.greater-button-next,
+.h1-example,
+.button-try-it-yourself,
+.log-in-div .col-sec,
+.log-in-div,
+.log-in-forgot-password
+{
+	display: flex; 
+}
+
+.header-with-logo nav select
+{
+	border: none;
+	font-size: 19px; 
+	padding: 30px 16px;
+
+}
+
+.header-with-logo nav select:hover
+{
+	background-color: rgb(55, 165, 101);
+	color: white;
+}
+
+.header-with-logo ul,
+.ul-of-second-header
+{
+	list-style-type: none; 
+}
+
+.header-with-logo .paid-courses
+{
+	margin-left: auto;
+	height: 45px;
+	width: 150px;
+	border-radius: 22px;
+	font-size: 20px;
+	margin-top: 15px;
+}
+.header-with-logo .paid-courses
+{
+	align-items: center;
+	justify-content: center; 
+} 
+.header-with-logo .paid-courses:hover
+{
+	background-color: rgb(55, 165, 101);
+	color: white;
+}
+.header-with-logo .log-in
+{
+	font-size: 20px;
+	width: 130px;
+	height: 45px;
+	background-color: rgb(55, 165, 101);
+	border-radius: 22px;
+	color: white; 
+	margin-right: 15px;
+	margin-left: 13px;
+	margin-top: 15px;
+}
+.header-with-logo .log-in{
+	align-items: center;
+	justify-content: center;
+}
+.ul-of-second-header li
+{
+	padding: 3px 14px;
+	text-transform: uppercase;
+}
+.ul-of-second-header li:hover{
+cursor: pointer;
+}
+.ul-of-second-header li
+{
+	align-items: center;
+	color: white;
+}
+.body-first-header
+{
+	background-color: #2D2B2B;
+}
+.second-header-margin-left-auto
+{
+	margin-left: auto;
+}
+
+.first-article-then-div .info p{
+
+	padding: 10px 0;
+	line-height: 3px;
+	font-size: 19px;
+}
+.first-article-then-div .info p:hover{
+	background-color: rgb(164, 168, 164);
+	cursor: pointer;
+}
+.first-article-then-div .info 
+{
+	  overflow: auto;
+	  width: 240px;
+	  max-height: 1500px;
+	  background-color:  rgb(227, 231, 227);
+ 
+#E6E6FA
+}
+.html5
+{
+	background-color: #E6E6FA;
+	width: 1320px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+.start-learning-html
+{
+	width: 260px;
+	height: 45px;
+	background-color: rgb(55, 165, 101);
+	border-radius: 9px;
+	color: white;
+	font-size: 19px;
+}
+.start-learning-html,
+.button-try-it-yourself,
+.greater-button-next,
+.log-in-div,
+.log-in-forgot-password {
+	align-items: center;
+	justify-content: center;
+}
+.start-learning-html:hover{
+	cursor: pointer;
+}
+.html5-textside {
+	margin-left: 30px;
+	margin-top: 10px;
+}
+.html5 img
+{
+	margin-left: 30px;
+	object-fit: cover;
+}
+.info h1,
+.info p{
+	margin-left: 10px;
+}
+
+
+.img-home
+{
+	justify-content:  flex-start;
+}
+.less-button-home {
+	width: 100px;
+	background-color: rgb(55, 165, 101);
+	font-size: 20px;
+	height: 42px;
+	color: white;
+	border-radius: 5px;
+}
+.less-button-home a,
+.greater-button-next a {
+	text-decoration: none;
+	color: white;
+}
+.less-button-home{
+	justify-content: center;
+	align-items: center;
+	margin-left: 30px;
+}
+.html-tutorial-pad
+{
+	font-size: 35px;
+	margin-top: 120px;
+	margin-left: 30px;
+
+}
+ul, body
+{
+	padding: 0;
+	margin:0;
+}
+
+
+
+.greater-button-next{
+	width: 100px;
+	background-color: rgb(55, 165, 101);
+	font-size: 20px;
+	height: 42px;
+	color: white;
+	border-radius: 5px;
+	margin-left: 1055px;
+}
+.example
+{
+	line-height: 6px;
+}
+.this-is-a-heading
+{
+	margin-top: 15px;
+
+}
+.first-example
+{
+	background-color: rgb(194, 199, 198);
+	padding: 37px 0;
+}
+.example {
+	background-color: white;
+	width: 97%;
+	height: 280px;
+	margin-left: 30px;
+}
+.h1-example
+{
+	position:relative;
+	right: 10px;
+	bottom: 29px;
+}
+
+.this-is-a-heading,
+.this-is-a-paragraph
+{
+	margin-left: 80px;
+	line-height: 10px;
+}
+
+ .this-is-a-body{
+ 	margin-left: 40px;
+ }
+ .try-it-yourself{
+ 	margin-left: 20px;
+ }
+ .html-home-color a{
+ 	text-decoration: none;
+ 	color: black;
+ }
+ .html-introduction a{
+text-decoration: none;
+ 	color: black;
+ }
+ .html-home-color {
+ 	/*background-color: rgb(55, 165, 101);*/
+ }
+ .button-try-it-yourself{
+ 	width: 150px;
+ 	height: 40px;
+ 	background-color: rgb(55, 165, 101);
+ 	margin-left: 28px;
+ 	border-radius: 6px;
+ 	color: white;
+ }
+ .body-first-header nav li:hover{
+ 	background-color: rgb(55, 165, 101);
+ }
+ .html-standard-markup-lang {
+
+ 	margin-left: 30px;
+ }
+ .html-standard-markup-lang {
+ 	padding: 25px 0;
+ 	border-top: solid rgb(204, 204, 204);
+ 	border-bottom: solid rgb(204, 204, 204);
+
+ }
+.what-is-html-with-6-li {
+	margin-left: 45px;
+	line-height: 27px;
+	font-size: 18px;
+}
+
+.what-is-html{
+	margin-left: 25px;
+	font-size: 30px;
+}
+.html-introduction-on-window{
+	font-size: 38px;
+	margin-left: 30px;
+	margin-top: 120px;
+}
+.what-is-html-with-6-li{
+	margin-bottom: 145px;
+
+}
+.a-simple-html-document
+{
+	position: relative;
+	bottom: 110px;
+	margin-left: 23px;
+}
+.example-explained-with-7-li
+{
+	margin-left: 40px;
+}
+
+.log-in-div{
+
+	margin-top: 10px;
+}
+
+.log-in-div{
+	width: 300px;
+	height: 350px;
+	margin-left: 510px;
+	padding: 90px;
+	border: solid rgba(194, 192, 198, .4);
+	border-radius: 15px;
+
+
+}
+.input-email{
+	width: 350px;
+	height: 38px;
+	margin-bottom: 30px;
+}
+.input-password{
+	width: 350px;
+	height: 38px;
+	margin-bottom: 60px;
+
+}
+.need-an-account {
+	margin-left: auto;
+}
+.margin-left-auto-pass{
+	margin-left: auto;
+}
+.need-to-work-with-sign-up{
+	color: rgb(55, 165, 101);
+	margin-left: 10px;
+}
+.log-in-div {
+line-height: 1px;
+}
+.forgot-password
+{
+	margin-top: 29px;
+	margin-left: 120px;
+}
+.padding-log-in {
+	padding: 22px 150px;
+	background-color: rgb(55, 165, 101);
+	border-radius: 20px;
+}
+.log-in-div input{
+	border: solid rgba(154, 152, 158, .2);
+}
+.logo {
+	margin-left: 20px;
+}
+
+@media screen and (min-width: 900px) {
+ 
+  
+}
+
+
+
